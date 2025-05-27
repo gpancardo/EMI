@@ -1,0 +1,47 @@
+[PROJECT]
+Target=C:\Users\Ryzen\Desktop\Proyecto_Micros\main.hex
+Processor_Text=PIC16F887
+CCSVerions=5.112
+Compiler=PCM
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\Ryzen\Desktop\Proyecto_Micros\main]
+Type=4
+[mru-list]
+1=main.c
+[Units]
+Count=1
+1=main (main)
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=25-05-2025
+D1_L=12
+D1_L1=[40021]Project Opened.
+D1_L2=[40026]Started Editing.
+D1_L3=[40187]Stopped Editing.
+TotalEdit=16
+TotalDebug=0
+D1_E=16
+D1_D=0
+D1_L4=[40187]Project Closed.
+D1_L5=[42284]Project Opened.
+D1_L6=[42790]Started Editing.
+D1_L7=[43787]Stopped Editing.
+D1_L8=[43798]Started Editing.
+D1_L9=[44171]Stopped Editing.
+D1_L10=[44660]Started Editing.
+D1_L11=[44662]Stopped Editing.
+D1_L12=[44662]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=9
+Count=1
+2=..\..\Downloads\main_comentado.c
+t2=151
